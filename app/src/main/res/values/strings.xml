@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Steganography</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_audio_stegano_graphy">Audio Steganography</string>
+    <string name="title_activity_video_steganography">Video Steganography</string>
+    <string name="title_activity_image_steganography">Image Steganography</string>
+</resources>

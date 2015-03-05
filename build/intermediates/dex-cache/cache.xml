@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Current_Projects\Steganography\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\Current_Projects\Steganography\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-565b0b99f98278d61df2aace37b0b5afaf0a4f94.jar" />
+    </item>
+    <item
+        jar="D:\Android Studio\Android Studio Sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\Current_Projects\Steganography\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-e6eb94fc4763fc1ea5afd05d262a9fe9b1c7fd91.jar" />
+    </item>
+    <item
+        jar="D:\Current_Projects\Steganography\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\Current_Projects\Steganography\app\build\intermediates\pre-dexed\debug\classes-0409302825cead62999e013a6f8b9373ee307831.jar" />
+    </item>
+    <item
+        jar="D:\Current_Projects\Steganography\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\Current_Projects\Steganography\app\build\intermediates\pre-dexed\debug\classes-cf013679c36094916dbf6ac7efb309a6dd3545ca.jar" />
+    </item>
+
+</items>
